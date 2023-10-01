@@ -13,7 +13,8 @@ A Flutter project showcasing the user interface (UI) design for a ticket booking
 ## Screenshots
 
 - Home Screen
-- 
+- ![homescreen](https://github.com/Karthik2040/BookTickets/assets/102811172/7e2dd1d6-dc5d-4870-8775-4ba7bdf8ef09)
+
 
 
 ## Getting Started
@@ -33,4 +34,4 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/Karthik2040/BookTickets.git
