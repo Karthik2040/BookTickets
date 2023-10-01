@@ -13,7 +13,7 @@ A Flutter project showcasing the user interface (UI) design for a ticket booking
 ## Screenshots
 
 - Home Screen
-- ![homescreen](https://github.com/Karthik2040/BookTickets/assets/102811172/7e2dd1d6-dc5d-4870-8775-4ba7bdf8ef09)
+![Home_screen ](https://github.com/Karthik2040/BookTickets/assets/102811172/082b5354-8347-41ca-b693-6e5e0651c6eb)
 
 
 
