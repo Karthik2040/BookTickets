@@ -34,4 +34,4 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Karthik2040/BookTickets.git
+   https://github.com/Karthik2040/BookTickets.git
